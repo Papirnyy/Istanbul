@@ -1,0 +1,12 @@
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Large archives / backups
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*.log
